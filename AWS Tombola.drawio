@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T17:46:36.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KcxnKoapfMf3T3iXSOPO" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-01T17:48:51.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cOnzwgcRaYvNOgGZLz9R" version="20.0.3" type="github" pages="2">
   <diagram id="fPJuS2PRNT2HL8Cro8eo" name="Athena">
     <mxGraphModel dx="1220" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -355,7 +355,7 @@
         <mxCell id="zZcnUP5ZajS7dTi-8f0K-45" value="Modelo General Tombola" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="435" y="-790" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zZcnUP5ZajS7dTi-8f0K-46" value="Habitualidades con Athena" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="zZcnUP5ZajS7dTi-8f0K-46" value="Habitualidades con Glue" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="435" y="-770" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Fb14lM2tlTkCQlczML5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="5Fb14lM2tlTkCQlczML5-10" target="zZcnUP5ZajS7dTi-8f0K-27">
