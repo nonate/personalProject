@@ -1,9 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T18:02:46.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.2" etag="CPqF54Hz_GRrhC1c7of9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T18:13:54.654Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3aolvLFzGU0Cn6tixSCh" version="21.7.2" type="github">
   <diagram name="Página-1" id="n_1JwNyh_ADlnmDTyumZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1231" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vp18g6Jga5RUDfSaqDzq-1" target="Vp18g6Jga5RUDfSaqDzq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-1" value="Lunes a Viernes de &lt;br&gt;8:00 a 21:30 hrs?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vp18g6Jga5RUDfSaqDzq-2" target="Vp18g6Jga5RUDfSaqDzq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-2" value="Sabado o Domingo de &lt;br&gt;8:00 a 21:30 hrs?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="180" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-3" value="Feriado o Fuera de Horario" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="180" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-4" value="Mensaje Fuera de HH" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="340" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vp18g6Jga5RUDfSaqDzq-5" target="Vp18g6Jga5RUDfSaqDzq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-20" value="Es la opcion 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vp18g6Jga5RUDfSaqDzq-17">
+          <mxGeometry x="-0.2667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-5" value="Flujo Fin de Semana" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vp18g6Jga5RUDfSaqDzq-7" target="Vp18g6Jga5RUDfSaqDzq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-12" value="En opciones distintas a 0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vp18g6Jga5RUDfSaqDzq-10">
+          <mxGeometry x="-0.6098" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-7" value="Flujo Semana" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vp18g6Jga5RUDfSaqDzq-9" target="Vp18g6Jga5RUDfSaqDzq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-9" value="Es distinto a &lt;br&gt;lunes a Viernes &lt;br&gt;de 8:00 a 19:00" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="500" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-13" value="Llame en horario hábil" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vp18g6Jga5RUDfSaqDzq-16" target="Vp18g6Jga5RUDfSaqDzq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-16" value="Es distinto a &lt;br&gt;Sábado de &lt;br&gt;8:00 a 16:00" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="490" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp18g6Jga5RUDfSaqDzq-18" value="Llame en horario hábil" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
