@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T13:57:22.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KzrjiiPjBMnvUBArr4Vj" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T14:13:56.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="XLFy_mf1Mde_uEUcXgtW" version="21.8.0" type="github">
   <diagram name="Página-1" id="n-JcVMdkXLjXNwTriQHU">
     <mxGraphModel dx="1232" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,6 +42,38 @@
         <mxCell id="OxkqojCkP8XJqCgK45H1-14" value="Añade marca de recorrido" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="200" y="190" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OxkqojCkP8XJqCgK45H1-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OxkqojCkP8XJqCgK45H1-16" target="OxkqojCkP8XJqCgK45H1-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="541" y="440" />
+              <mxPoint x="160" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OxkqojCkP8XJqCgK45H1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OxkqojCkP8XJqCgK45H1-16" target="OxkqojCkP8XJqCgK45H1-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="541" y="440" />
+              <mxPoint x="690" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OxkqojCkP8XJqCgK45H1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OxkqojCkP8XJqCgK45H1-16" target="OxkqojCkP8XJqCgK45H1-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="541" y="440" />
+              <mxPoint x="920" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OxkqojCkP8XJqCgK45H1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OxkqojCkP8XJqCgK45H1-16" target="OxkqojCkP8XJqCgK45H1-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="541" y="440" />
+              <mxPoint x="422" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OxkqojCkP8XJqCgK45H1-16" value="Bot &lt;br&gt;Whasapp" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480.6" y="320" width="120" height="80" as="geometry" />
         </mxCell>
@@ -68,6 +100,18 @@
         </mxCell>
         <mxCell id="OxkqojCkP8XJqCgK45H1-26" value="MODELO PRELIMINAR SOLUCION VENTAS WHATSAPP BEME" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="360" y="20" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OxkqojCkP8XJqCgK45H1-27" value="Canal Telefónico" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OxkqojCkP8XJqCgK45H1-29" value="Canal Presencial" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="362" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OxkqojCkP8XJqCgK45H1-35" value="App/Web" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="630" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OxkqojCkP8XJqCgK45H1-37" value="Whatsapp" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="860" y="460" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
