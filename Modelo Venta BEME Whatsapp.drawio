@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T14:58:49.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="B__2YZ7TNjUNEvN_mgv4" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T15:20:27.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hJS6jGopS9h3lIpYzENk" version="21.8.0" type="github">
   <diagram name="Página-1" id="n-JcVMdkXLjXNwTriQHU">
     <mxGraphModel dx="1232" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -119,6 +119,9 @@
         <mxCell id="OxkqojCkP8XJqCgK45H1-35" value="App/Web" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="630" y="460" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OxkqojCkP8XJqCgK45H1-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OxkqojCkP8XJqCgK45H1-37" target="OxkqojCkP8XJqCgK45H1-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OxkqojCkP8XJqCgK45H1-37" value="Whatsapp" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="860" y="460" width="120" height="40" as="geometry" />
         </mxCell>
@@ -136,6 +139,9 @@
         </mxCell>
         <mxCell id="OxkqojCkP8XJqCgK45H1-49" value="Opcion 1: Añadir Lead a Cola para llamadas manuales de salida por CCL.&lt;br&gt;Opcion 2: Disparar llamada de salida mediante Genesys y vincularla con Lead bajo modalidad de venta actual." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="35" y="540" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OxkqojCkP8XJqCgK45H1-51" value="Habilitar venta actual.&amp;nbsp; En Whatssapp.&lt;br&gt;Configurar Cola y Ejecutivos (perfilamiento)&lt;br&gt;Configurar nueva vista para ejecutivo. MessaginSession y Lead.&lt;br&gt;Autenticación y Firma Digital." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="815" y="545" width="210" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
