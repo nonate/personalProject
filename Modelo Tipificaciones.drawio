@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T19:05:10.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IHIiLQa1x5Hg5m7d-6gp" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T19:17:36.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1qQBKOPA74OxgZVsh0Ko" version="22.0.6" type="github" pages="2">
   <diagram name="Página-1" id="vAHAjo6Sf7zO8xVUhwXF">
-    <mxGraphModel dx="1232" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1232" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,7 +109,7 @@
         <mxCell id="krVn1-1Q8_K3ztCeWKRY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="krVn1-1Q8_K3ztCeWKRY-31" target="krVn1-1Q8_K3ztCeWKRY-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="krVn1-1Q8_K3ztCeWKRY-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="krVn1-1Q8_K3ztCeWKRY-31" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="85" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="krVn1-1Q8_K3ztCeWKRY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="krVn1-1Q8_K3ztCeWKRY-32" target="krVn1-1Q8_K3ztCeWKRY-34">
@@ -134,6 +134,78 @@
         <mxCell id="krVn1-1Q8_K3ztCeWKRY-36" value="Flow Nuevo Caso" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="710" y="410" width="120" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mXdFkEXNJyxIoy7ovq35" name="Página-2">
+    <mxGraphModel dx="1232" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ic8VC6AnghyzxlmW11wz-1" value="Mantenedor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="192" width="682" height="403" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic8VC6AnghyzxlmW11wz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+          <mxGeometry x="135" y="64" width="514" height="316" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic8VC6AnghyzxlmW11wz-4" value="Mantenedor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+          <mxGeometry x="15" y="64" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic8VC6AnghyzxlmW11wz-5" value="Cargar / Exportar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+          <mxGeometry x="15" y="96" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic8VC6AnghyzxlmW11wz-6" value="Option 1" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iComboBox;spacingTop=2;spacingLeft=2;align=left;strokeColor=#444444;fontColor=#666666;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;sketch=0;whiteSpace=wrap;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+          <mxGeometry x="175" y="128" width="189" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic8VC6AnghyzxlmW11wz-9" value="Option 1" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iComboBox;spacingTop=2;spacingLeft=2;align=left;strokeColor=#444444;fontColor=#666666;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;sketch=0;whiteSpace=wrap;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+          <mxGeometry x="179" y="237" width="189" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic8VC6AnghyzxlmW11wz-8" value="Option 1" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iComboBox;spacingTop=2;spacingLeft=2;align=left;strokeColor=#444444;fontColor=#666666;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;sketch=0;whiteSpace=wrap;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+          <mxGeometry x="177" y="201" width="189" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic8VC6AnghyzxlmW11wz-7" value="Option 1" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iComboBox;spacingTop=2;spacingLeft=2;align=left;strokeColor=#444444;fontColor=#666666;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;sketch=0;whiteSpace=wrap;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+          <mxGeometry x="175" y="165" width="189" height="24" as="geometry" />
+        </mxCell>
+        <UserObject label="Agregar" link="https://www.draw.io" id="Ic8VC6AnghyzxlmW11wz-10">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+            <mxGeometry x="382" y="120" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Agregar" link="https://www.draw.io" id="Ic8VC6AnghyzxlmW11wz-31">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+            <mxGeometry x="382" y="229" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Agregar" link="https://www.draw.io" id="Ic8VC6AnghyzxlmW11wz-30">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+            <mxGeometry x="382" y="195" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Agregar" link="https://www.draw.io" id="Ic8VC6AnghyzxlmW11wz-29">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+            <mxGeometry x="382" y="160" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Modificar" link="https://www.draw.io" id="Ic8VC6AnghyzxlmW11wz-32">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+            <mxGeometry x="437" y="120" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Modificar" link="https://www.draw.io" id="Ic8VC6AnghyzxlmW11wz-35">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+            <mxGeometry x="442" y="229" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Modificar" link="https://www.draw.io" id="Ic8VC6AnghyzxlmW11wz-34">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+            <mxGeometry x="439" y="193" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Modificar" link="https://www.draw.io" id="Ic8VC6AnghyzxlmW11wz-33">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="Ic8VC6AnghyzxlmW11wz-1">
+            <mxGeometry x="439" y="160" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
