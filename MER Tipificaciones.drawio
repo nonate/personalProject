@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T18:34:57.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7brA7uU2uBO9QvzKH0bf" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T19:22:02.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IIJHCLxW9az2BOagY3Wm" version="22.0.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1632" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -207,8 +207,8 @@
             <mxPoint x="393" y="402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jkUzrEBRhyKOq5LwuYZz-46" value="SERVICIO:SERVICIO&lt;br&gt;TIPO:SOPORTE&lt;br&gt;SUBTIPO: CTA RUT&lt;br&gt;RESOLUCION; CAMBIO CLAVE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-299" y="477" width="264" height="121" as="geometry" />
+        <mxCell id="jkUzrEBRhyKOq5LwuYZz-47" value="&lt;b&gt;Elementos con * son nuevos&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="393" width="247" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
