@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T16:42:47.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Ya41zKfPPwySHW9lFl_H" version="23.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-19T17:31:14.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="_C2vo2YCPVosSmOk9WIX" version="23.1.2" type="github" pages="4">
   <diagram name="Modelo Caso" id="3f-cTX-ALPFfvWVdy_n0">
     <mxGraphModel dx="1152" dy="1104" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -299,7 +299,7 @@
         <mxCell id="yQcPNoK5p0_E_MDT1Mi9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yQcPNoK5p0_E_MDT1Mi9-16" target="yQcPNoK5p0_E_MDT1Mi9-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yQcPNoK5p0_E_MDT1Mi9-16" value="Campaña SF-Genesys" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="yQcPNoK5p0_E_MDT1Mi9-16" value="CAMPAIGN SF -Genesys" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="300" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yQcPNoK5p0_E_MDT1Mi9-17" value="Campaña Genesys" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
