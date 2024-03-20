@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T17:03:02.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.2" etag="5vlOOcSuf6Kl_LKHdC1l" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T17:18:02.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8YriF2x1-RG_aQb1wy5o" version="24.0.2" type="github">
   <diagram name="Página-1" id="tnR9T0kGykza1s0M6Qjy">
-    <mxGraphModel>
+    <mxGraphModel dx="1232" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rbUTY7cgDelVconuzdgx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbUTY7cgDelVconuzdgx-1" target="rbUTY7cgDelVconuzdgx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-1" value="EAT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="85" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbUTY7cgDelVconuzdgx-2" target="rbUTY7cgDelVconuzdgx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-2" value="PERFIL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-3" value="&lt;a style=&quot;color: rgb(51, 52, 53); font-family: Arial, Helvetica, sans-serif; font-size: 11.36px; text-align: start; text-wrap: nowrap; background-color: rgb(227, 243, 255);&quot;&gt;Servicio al Cliente Usuario Estandar&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="100" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="rbUTY7cgDelVconuzdgx-7" target="rbUTY7cgDelVconuzdgx-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-7" value="EAT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-9" value="&lt;a style=&quot;color: rgb(51, 52, 53); font-family: Arial, Helvetica, sans-serif; font-size: 11.36px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Usuario Estandar Banco Estado&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbUTY7cgDelVconuzdgx-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-10" value="PERFIL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbUTY7cgDelVconuzdgx-11" target="rbUTY7cgDelVconuzdgx-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-11" value="ROL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-13" value="Objetos, atributos, Componentes, Aplicaciones, Clases, Flujos." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rbUTY7cgDelVconuzdgx-15" value="Registros a través de un arbol de jerarquia" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="370" width="135" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
