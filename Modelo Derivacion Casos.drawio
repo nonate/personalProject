@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T18:31:33.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5g_N7cDQFzNhlfltrRAS" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T18:39:47.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HYo6zEn6zGicmcrLOzDC" version="24.2.3" type="github">
   <diagram name="Página-1" id="21dMazKgDtN5A4R0uCIt">
     <mxGraphModel dx="792" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="S1v9DRBgkolXMPgVoIUC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1v9DRBgkolXMPgVoIUC-1" target="S1v9DRBgkolXMPgVoIUC-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S1v9DRBgkolXMPgVoIUC-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="S1v9DRBgkolXMPgVoIUC-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S1v9DRBgkolXMPgVoIUC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1v9DRBgkolXMPgVoIUC-2" target="S1v9DRBgkolXMPgVoIUC-6">
@@ -35,13 +35,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S1v9DRBgkolXMPgVoIUC-4" value="Segundo Nivel" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="280" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S1v9DRBgkolXMPgVoIUC-6" value="Caso: RecordType X" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="510" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S1v9DRBgkolXMPgVoIUC-8" value="Caso: RecordType Y" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="500" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="500" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S1v9DRBgkolXMPgVoIUC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1v9DRBgkolXMPgVoIUC-14" target="S1v9DRBgkolXMPgVoIUC-15">
           <mxGeometry relative="1" as="geometry" />
@@ -66,11 +66,22 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S1v9DRBgkolXMPgVoIUC-24" value="Objeto Relacion Colas - RT" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="S1v9DRBgkolXMPgVoIUC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1v9DRBgkolXMPgVoIUC-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1v9DRBgkolXMPgVoIUC-24" value="Nuevo Objeto Relacion Colas - RT *****" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="555" y="311.5" width="115" height="92" as="geometry" />
         </mxCell>
         <mxCell id="S1v9DRBgkolXMPgVoIUC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S1v9DRBgkolXMPgVoIUC-21" target="S1v9DRBgkolXMPgVoIUC-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S1v9DRBgkolXMPgVoIUC-31" value="&lt;ul&gt;&lt;li&gt;Eliminar Process Builder y crear Trigger Flow&lt;/li&gt;&lt;li&gt;Evaluar si es necesario que por defecto se cree un caso al momento de crear un Tarea y que por defecto se use el RecordType Registro de Llamadas CCL&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="580" width="420" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="S1v9DRBgkolXMPgVoIUC-39" value="Mantenedor" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
