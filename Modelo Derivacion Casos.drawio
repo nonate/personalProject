@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T18:45:59.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OSp_v327P8imLGK3kAc0" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T18:51:46.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-DEa2CkreST1Q485201S" version="24.2.3" type="github">
   <diagram name="Página-1" id="21dMazKgDtN5A4R0uCIt">
     <mxGraphModel dx="1032" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S1v9DRBgkolXMPgVoIUC-24" value="Nuevo Objeto Relacion Colas - RT *****" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="555" y="311.5" width="115" height="92" as="geometry" />
+          <mxGeometry x="570" y="311.5" width="115" height="92" as="geometry" />
         </mxCell>
         <mxCell id="S1v9DRBgkolXMPgVoIUC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="S1v9DRBgkolXMPgVoIUC-21" target="S1v9DRBgkolXMPgVoIUC-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
