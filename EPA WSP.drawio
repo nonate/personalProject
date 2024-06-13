@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T18:39:54.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.16" etag="o-asMbw__nG0RH8ZTFxk" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T17:34:55.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="yxhH3RHq9s2rKxqGIWcL" version="24.5.4" type="github">
   <diagram name="Página-1" id="-82wFzheWEouRTA9R1H1">
-    <mxGraphModel>
+    <mxGraphModel dx="1410" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1PzlLKGIXYiAATJR-YXy-1" value="MessagingSession&lt;div&gt;Survey&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
