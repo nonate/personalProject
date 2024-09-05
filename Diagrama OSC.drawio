@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="NUswJ1ts76lBLRc4Qxui-7" value="DataAction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUswJ1ts76lBLRc4Qxui-6">
           <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="14" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NUswJ1ts76lBLRc4Qxui-1" value="IVR" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -27,7 +27,7 @@
           <mxGeometry x="70" y="60" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NUswJ1ts76lBLRc4Qxui-5" value="Lambda" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
