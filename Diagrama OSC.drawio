@@ -26,8 +26,16 @@
         <mxCell id="NUswJ1ts76lBLRc4Qxui-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="60" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NUswJ1ts76lBLRc4Qxui-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUswJ1ts76lBLRc4Qxui-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NUswJ1ts76lBLRc4Qxui-5" value="Lambda" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUswJ1ts76lBLRc4Qxui-9" value="Sharepoint" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="354" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
