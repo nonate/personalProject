@@ -20,7 +20,7 @@
         </mxCell>
         <mxCell id="NUswJ1ts76lBLRc4Qxui-4" value="Numero Telefonico" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUswJ1ts76lBLRc4Qxui-3">
           <mxGeometry x="0.1478" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NUswJ1ts76lBLRc4Qxui-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
