@@ -38,6 +38,12 @@
         <mxCell id="NUswJ1ts76lBLRc4Qxui-12" value="1000 sol mensuales" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="305" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NUswJ1ts76lBLRc4Qxui-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUswJ1ts76lBLRc4Qxui-14" target="NUswJ1ts76lBLRc4Qxui-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUswJ1ts76lBLRc4Qxui-14" value="Secret&amp;nbsp;&lt;div&gt;Manager&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="295" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
