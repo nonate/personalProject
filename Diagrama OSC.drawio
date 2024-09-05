@@ -35,6 +35,9 @@
         <mxCell id="NUswJ1ts76lBLRc4Qxui-9" value="Sharepoint" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NUswJ1ts76lBLRc4Qxui-12" value="1000 sol mensuales" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
