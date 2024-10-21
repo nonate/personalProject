@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="syWKZ5QLKRgHDZSvoiqo">
-    <mxGraphModel>
+    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NAjbJYBD7VgA2gtvCGFt-1" target="NAjbJYBD7VgA2gtvCGFt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-1" value="Be_EnvioCartolaCuenta Rut -&amp;gt; Execute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NAjbJYBD7VgA2gtvCGFt-2" target="NAjbJYBD7VgA2gtvCGFt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-2" value="Whatsaapp Bot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NAjbJYBD7VgA2gtvCGFt-4" target="NAjbJYBD7VgA2gtvCGFt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-4" value="CC_InvocaCartola-&amp;gt;generaPDF" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="190" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NAjbJYBD7VgA2gtvCGFt-6" target="NAjbJYBD7VgA2gtvCGFt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-6" value="Api-Gateway -&amp;gt; Invoca-cartola" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NAjbJYBD7VgA2gtvCGFt-8" target="NAjbJYBD7VgA2gtvCGFt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-8" value="Lambda bech-invoca-cartola-whatsapp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NAjbJYBD7VgA2gtvCGFt-10" target="NAjbJYBD7VgA2gtvCGFt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-10" value="CC_GeneraCartolaWhatsapp -&amp;gt; POST" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="430" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NAjbJYBD7VgA2gtvCGFt-12" target="NAjbJYBD7VgA2gtvCGFt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-12" value="Be_EnvioCartolaCuenta Rut -&amp;gt; enviaCartola" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="500" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAjbJYBD7VgA2gtvCGFt-15" value="BE_CartolaPDF" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
