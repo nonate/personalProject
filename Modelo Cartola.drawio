@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11" pages="2">
   <diagram name="Página-1" id="h7fPX8ARWg5kO84ctjFB">
     <mxGraphModel dx="2619" dy="878" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -97,6 +97,70 @@
         </mxCell>
         <mxCell id="hPuCXLlTEbDeWtccyvrx-32" value="BE_EnvioCorreoMC" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vDaBDFJodHPScK4-2U4Z" name="Página-2">
+    <mxGraphModel dx="2369" dy="1278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-2" target="dcXKSCxWrxUHlpU9ZHwt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-2" value="Einstein Bot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="-175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-6" target="dcXKSCxWrxUHlpU9ZHwt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-6" value="Apex Class&lt;div&gt;Metodo execute (Metodo Invocable)&lt;/div&gt;&lt;div&gt;BE_EnvioCartolaCuentaRut&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;" vertex="1" parent="1">
+          <mxGeometry x="-139" y="-75" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-16" target="dcXKSCxWrxUHlpU9ZHwt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-16" value="BE_EnvioCartolaCuentaRut&lt;div&gt;enviaCartola&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-163" y="58" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-18" target="dcXKSCxWrxUHlpU9ZHwt-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-18" value="Pa&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;geReference BE_CartolaPDF&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-103" y="148" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-43" y="408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-20" value="CC_GeneraPdfClave" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-103" y="233" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-21" value="&#xa;&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;bech-encrypt-pdf-py&lt;/span&gt;&#xa;&#xa;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="137" y="323" width="40" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-22" value="get-pdf" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="132" y="218" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-20" target="dcXKSCxWrxUHlpU9ZHwt-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-22" target="dcXKSCxWrxUHlpU9ZHwt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.892;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-21" target="dcXKSCxWrxUHlpU9ZHwt-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-26" value="BE_EnvioCorreoMC" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-103" y="408" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-28" target="dcXKSCxWrxUHlpU9ZHwt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-28" value="NUEVO USUARIO&lt;div&gt;INTEGRACION&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-283" y="-175" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
