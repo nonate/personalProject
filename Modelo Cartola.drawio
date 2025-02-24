@@ -102,7 +102,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vDaBDFJodHPScK4-2U4Z" name="Página-2">
-    <mxGraphModel dx="2369" dy="1278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2769" dy="1278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,11 +169,17 @@
         <mxCell id="dcXKSCxWrxUHlpU9ZHwt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-28" target="dcXKSCxWrxUHlpU9ZHwt-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-28" target="dcXKSCxWrxUHlpU9ZHwt-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dcXKSCxWrxUHlpU9ZHwt-28" value="NUEVO USUARIO&lt;div&gt;INTEGRACION&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#006600,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="-283" y="-175" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcXKSCxWrxUHlpU9ZHwt-32" value="Establercer condición para saber a qué Visualforce llamar si es OnPremise o MAMBU" style="whiteSpace=wrap;html=1;strokeColor=light-dark(#006600,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="217" y="58" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-35" value="Ya tenemos la replica del Permission Set, se llama CC_Chatbot.&amp;nbsp; Se debe validar con Gobierno y solicitar la autorización a cada célula propietaria de los permisos que se necesitan." style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=light-dark(#006600,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="-569" y="-190.5" width="227" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
