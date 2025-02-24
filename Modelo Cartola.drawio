@@ -172,7 +172,7 @@
         <mxCell id="dcXKSCxWrxUHlpU9ZHwt-28" value="NUEVO USUARIO&lt;div&gt;INTEGRACION&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#006600,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="-283" y="-175" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-32" value="Establercer condición para saber a qué Visualforce llamar si es OnPremise o MAMBU" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-32" value="Establercer condición para saber a qué Visualforce llamar si es OnPremise o MAMBU" style="whiteSpace=wrap;html=1;strokeColor=light-dark(#006600,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="217" y="58" width="206" height="60" as="geometry" />
         </mxCell>
       </root>
