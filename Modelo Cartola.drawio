@@ -30,7 +30,7 @@
         <mxCell id="hPuCXLlTEbDeWtccyvrx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hPuCXLlTEbDeWtccyvrx-2" target="hPuCXLlTEbDeWtccyvrx-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hPuCXLlTEbDeWtccyvrx-2" value="BE_InvocaCartola" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hPuCXLlTEbDeWtccyvrx-2" value="ApexClass&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BE_InvocaCartola&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hPuCXLlTEbDeWtccyvrx-7" value="API&amp;nbsp;&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;invoca-cartola&lt;/span&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
