@@ -112,7 +112,7 @@
         <mxCell id="dcXKSCxWrxUHlpU9ZHwt-2" value="Einstein Bot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-104" y="-175" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;strokeColor=light-dark(#97D077,#FFFFFF);" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-6" target="dcXKSCxWrxUHlpU9ZHwt-16">
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;strokeColor=light-dark(#006600,#FFFFFF);" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-6" target="dcXKSCxWrxUHlpU9ZHwt-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-44" y="34" />
@@ -169,7 +169,7 @@
         <mxCell id="dcXKSCxWrxUHlpU9ZHwt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dcXKSCxWrxUHlpU9ZHwt-28" target="dcXKSCxWrxUHlpU9ZHwt-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-28" value="NUEVO USUARIO&lt;div&gt;INTEGRACION&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#97D077,#FFFFFF);" vertex="1" parent="1">
+        <mxCell id="dcXKSCxWrxUHlpU9ZHwt-28" value="NUEVO USUARIO&lt;div&gt;INTEGRACION&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#006600,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="-283" y="-175" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcXKSCxWrxUHlpU9ZHwt-32" value="Establercer condición para saber a qué Visualforce llamar si es OnPremise o MAMBU" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
