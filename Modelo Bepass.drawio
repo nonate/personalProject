@@ -42,7 +42,7 @@
           <mxGeometry x="110" y="460" width="530" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rS9MF68eR8BM3vYg2wUR-12" value="Genesys Cloud" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="440" width="110" height="30" as="geometry" />
+          <mxGeometry x="107" y="435" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rS9MF68eR8BM3vYg2wUR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rS9MF68eR8BM3vYg2wUR-13" target="rS9MF68eR8BM3vYg2wUR-15">
           <mxGeometry relative="1" as="geometry" />
