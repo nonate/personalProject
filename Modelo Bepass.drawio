@@ -14,6 +14,9 @@
             <mxPoint x="-3" y="27" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rS9MF68eR8BM3vYg2wUR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rS9MF68eR8BM3vYg2wUR-1" target="rS9MF68eR8BM3vYg2wUR-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rS9MF68eR8BM3vYg2wUR-1" value="Salesforce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -27,6 +30,12 @@
           <mxGeometry x="220" y="95" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rS9MF68eR8BM3vYg2wUR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="rS9MF68eR8BM3vYg2wUR-6" source="rS9MF68eR8BM3vYg2wUR-8" target="rS9MF68eR8BM3vYg2wUR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rS9MF68eR8BM3vYg2wUR-23" value="Cognito" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cognito;fillColor=#AD688B;gradientColor=none;" vertex="1" parent="rS9MF68eR8BM3vYg2wUR-6">
+          <mxGeometry x="80" y="230" width="40" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="rS9MF68eR8BM3vYg2wUR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="rS9MF68eR8BM3vYg2wUR-6" source="rS9MF68eR8BM3vYg2wUR-8" target="rS9MF68eR8BM3vYg2wUR-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rS9MF68eR8BM3vYg2wUR-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -51,6 +60,12 @@
         </mxCell>
         <mxCell id="rS9MF68eR8BM3vYg2wUR-15" value="DataAction Valida Autenticación" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rS9MF68eR8BM3vYg2wUR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rS9MF68eR8BM3vYg2wUR-6" target="rS9MF68eR8BM3vYg2wUR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rS9MF68eR8BM3vYg2wUR-26" value="Sucursal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
