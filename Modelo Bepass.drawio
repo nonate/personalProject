@@ -64,8 +64,14 @@
         <mxCell id="rS9MF68eR8BM3vYg2wUR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rS9MF68eR8BM3vYg2wUR-6" target="rS9MF68eR8BM3vYg2wUR-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rS9MF68eR8BM3vYg2wUR-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rS9MF68eR8BM3vYg2wUR-26" target="rS9MF68eR8BM3vYg2wUR-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rS9MF68eR8BM3vYg2wUR-26" value="Sucursal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rS9MF68eR8BM3vYg2wUR-29" value="?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="300" width="50" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
