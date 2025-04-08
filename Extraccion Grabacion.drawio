@@ -47,7 +47,7 @@
             <mxPoint x="2" y="56" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6tvHOsW2uaMwBrdxUCy3-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Dudas&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Extraer grabaciones al terminar o al fin del dia?&lt;/li&gt;&lt;li&gt;Si es al terminar como capturar el fin de llamada para iniciar el proceso (Salesforce?)&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Modelo al iniciar el IVR SQS-&amp;gt; Termino llamada.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Escalabilidad de la solución&lt;/li&gt;&lt;li&gt;Complementar con trasncripción (Genesys vs AWS)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6tvHOsW2uaMwBrdxUCy3-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Dudas&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Extraer grabaciones al terminar o al fin del dia?&lt;/li&gt;&lt;li&gt;Si es al terminar como capturar el fin de llamada para iniciar el proceso (Salesforce?)&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Modelo al iniciar el IVR SQS-&amp;gt; Termino llamada.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Escalabilidad de la solución&lt;/li&gt;&lt;li&gt;Complementar con trasncripción (Genesys vs AWS)&lt;/li&gt;&lt;li&gt;Concatenar un único archivo JSON con la metadata&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="530" width="540" height="210" as="geometry" />
         </mxCell>
       </root>
