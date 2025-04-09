@@ -146,6 +146,9 @@
         <mxCell id="-bOONmb96nhLPBcaCkeF-12" value="Genesys Cloud" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-bOONmb96nhLPBcaCkeF-10">
           <mxGeometry width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cOuw-qKYpE6zpjhe1Ukz-7" value="IVR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-bOONmb96nhLPBcaCkeF-10">
+          <mxGeometry x="35" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="-bOONmb96nhLPBcaCkeF-13" value="Cliente&amp;nbsp; Renuncia&amp;nbsp;&lt;div&gt;Fono&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Seguros&lt;/span&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-200" y="30" width="20" height="40" as="geometry" />
         </mxCell>
@@ -167,11 +170,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOuw-qKYpE6zpjhe1Ukz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-bOONmb96nhLPBcaCkeF-11" target="-bOONmb96nhLPBcaCkeF-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cOuw-qKYpE6zpjhe1Ukz-6" value="Valida llamada finalizada&lt;div&gt;Get Conversation Metadata&lt;/div&gt;&lt;div&gt;Get Trasncripcion&lt;/div&gt;&lt;div&gt;GetRecordigMetadata&lt;/div&gt;&lt;div&gt;GetRecording&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="600" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cOuw-qKYpE6zpjhe1Ukz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cOuw-qKYpE6zpjhe1Ukz-7" target="-bOONmb96nhLPBcaCkeF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cOuw-qKYpE6zpjhe1Ukz-10" value="DataAction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cOuw-qKYpE6zpjhe1Ukz-9">
+          <mxGeometry x="-0.3559" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
