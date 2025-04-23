@@ -13,6 +13,9 @@
         <mxCell id="lu8BM5eNogGUctwTY50--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lu8BM5eNogGUctwTY50--2" target="lu8BM5eNogGUctwTY50--5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lu8BM5eNogGUctwTY50--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lu8BM5eNogGUctwTY50--2" target="lu8BM5eNogGUctwTY50--26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lu8BM5eNogGUctwTY50--2" value="Apex&lt;div&gt;BE_IntegrationUtils&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -57,6 +60,9 @@
         </mxCell>
         <mxCell id="lu8BM5eNogGUctwTY50--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lu8BM5eNogGUctwTY50--14" target="lu8BM5eNogGUctwTY50--17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lu8BM5eNogGUctwTY50--26" value="Encripta los datos de entrada y de salida&lt;div&gt;Pasa por Akamai&lt;/div&gt;&lt;div&gt;Genera el token de forma limpia&lt;/div&gt;&lt;div&gt;Cuenta con monitoreo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="260" width="270" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
