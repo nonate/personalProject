@@ -45,7 +45,7 @@
         <mxCell id="lu8BM5eNogGUctwTY50--12" value="EKS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="lu8BM5eNogGUctwTY50--10">
           <mxGeometry x="110" y="120" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="lu8BM5eNogGUctwTY50--14" value="MicroServicio" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="lu8BM5eNogGUctwTY50--10">
+        <mxCell id="lu8BM5eNogGUctwTY50--14" value="MicroServicio" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#66FF66;fillColor=#009900;" vertex="1" parent="lu8BM5eNogGUctwTY50--10">
           <mxGeometry x="110" y="180" width="120" height="37.5" as="geometry" />
         </mxCell>
       </root>
