@@ -52,8 +52,8 @@
         <mxCell id="lu8BM5eNogGUctwTY50--14" value="MicroServicio" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#66FF66;fillColor=#009900;" vertex="1" parent="lu8BM5eNogGUctwTY50--10">
           <mxGeometry x="122.5" y="130" width="120" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="lu8BM5eNogGUctwTY50--22" value="BD Hab" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="lu8BM5eNogGUctwTY50--10">
-          <mxGeometry x="300" y="108.75" width="60" height="80" as="geometry" />
+        <mxCell id="lu8BM5eNogGUctwTY50--22" value="BD Hab" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;" vertex="1" parent="lu8BM5eNogGUctwTY50--10">
+          <mxGeometry x="300" y="120.63" width="40" height="56.25" as="geometry" />
         </mxCell>
         <mxCell id="lu8BM5eNogGUctwTY50--17" value="API Visa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770.5" y="560" width="120" height="40" as="geometry" />
