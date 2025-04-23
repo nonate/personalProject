@@ -55,6 +55,9 @@
         <mxCell id="lu8BM5eNogGUctwTY50--22" value="BD Hab" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;" vertex="1" parent="lu8BM5eNogGUctwTY50--10">
           <mxGeometry x="300" y="120.63" width="40" height="56.25" as="geometry" />
         </mxCell>
+        <mxCell id="lu8BM5eNogGUctwTY50--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lu8BM5eNogGUctwTY50--17" target="lu8BM5eNogGUctwTY50--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lu8BM5eNogGUctwTY50--17" value="API Visa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="490" width="120" height="40" as="geometry" />
         </mxCell>
