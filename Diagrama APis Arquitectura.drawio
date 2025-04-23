@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lu8BM5eNogGUctwTY50--26" value="Encripta los datos de entrada y de salida&lt;div&gt;Pasa por Akamai&lt;/div&gt;&lt;div&gt;Genera el token de forma limpia&lt;/div&gt;&lt;div&gt;Cuenta con monitoreo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="260" width="270" height="130" as="geometry" />
+          <mxGeometry x="165" y="260" width="270" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
