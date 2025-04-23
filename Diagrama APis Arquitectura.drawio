@@ -46,11 +46,11 @@
         <mxCell id="lu8BM5eNogGUctwTY50--12" value="EKS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="lu8BM5eNogGUctwTY50--10">
           <mxGeometry x="122.5" y="80" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="lu8BM5eNogGUctwTY50--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lu8BM5eNogGUctwTY50--10" source="lu8BM5eNogGUctwTY50--14" target="lu8BM5eNogGUctwTY50--22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="lu8BM5eNogGUctwTY50--14" value="MicroServicio" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#66FF66;fillColor=#009900;" vertex="1" parent="lu8BM5eNogGUctwTY50--10">
           <mxGeometry x="122.5" y="130" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lu8BM5eNogGUctwTY50--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lu8BM5eNogGUctwTY50--10" source="lu8BM5eNogGUctwTY50--22" target="lu8BM5eNogGUctwTY50--14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lu8BM5eNogGUctwTY50--22" value="BD Hab" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;" vertex="1" parent="lu8BM5eNogGUctwTY50--10">
           <mxGeometry x="300" y="120.63" width="40" height="56.25" as="geometry" />
