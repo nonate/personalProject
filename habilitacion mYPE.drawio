@@ -82,6 +82,15 @@
         <mxCell id="T3G7Gpj-b3C-Uhta2bSN-24" value="VISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T3G7Gpj-b3C-Uhta2bSN-15" target="T3G7Gpj-b3C-Uhta2bSN-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="640" as="targetPoint" />
+            <mxPoint x="300" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-33" value="Registro en&amp;nbsp;&lt;div&gt;Actividad&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
