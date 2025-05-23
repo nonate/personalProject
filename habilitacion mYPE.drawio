@@ -15,19 +15,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-1" value="MP_ConsultaDatos&lt;div&gt;Tutelados&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-1" value="MP_ConsultaDatos&lt;div&gt;Tutelados&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="600" y="150" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T3G7Gpj-b3C-Uhta2bSN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T3G7Gpj-b3C-Uhta2bSN-2" target="T3G7Gpj-b3C-Uhta2bSN-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-2" value="Salesforce" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-2" value="Salesforce" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="280" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="T3G7Gpj-b3C-Uhta2bSN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T3G7Gpj-b3C-Uhta2bSN-3" target="T3G7Gpj-b3C-Uhta2bSN-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-3" value="CASO&lt;div&gt;Registro Llamada&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-3" value="CASO&lt;div&gt;Registro Llamada&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="240" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T3G7Gpj-b3C-Uhta2bSN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T3G7Gpj-b3C-Uhta2bSN-4" target="T3G7Gpj-b3C-Uhta2bSN-3">
@@ -38,7 +38,7 @@
             <mxPoint x="41" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-4" value="Genesys Cloud" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-4" value="Genesys Cloud" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="60" y="140" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="T3G7Gpj-b3C-Uhta2bSN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T3G7Gpj-b3C-Uhta2bSN-11" target="T3G7Gpj-b3C-Uhta2bSN-4">
@@ -57,7 +57,7 @@
         <mxCell id="T3G7Gpj-b3C-Uhta2bSN-11" value="Cliente MYPE/MiPYME" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="20" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-15" value="Habilitacion Tarjeta Debito" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-15" value="&lt;div&gt;Proceso&lt;/div&gt;Habilitacion Tarjeta Debito" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T3G7Gpj-b3C-Uhta2bSN-21" value="AWS-Fraude" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=1;" vertex="1" parent="1">
@@ -65,7 +65,11 @@
         </mxCell>
         <mxCell id="T3G7Gpj-b3C-Uhta2bSN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T3G7Gpj-b3C-Uhta2bSN-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="685" y="720" as="targetPoint" />
+            <mxPoint x="685" y="693" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="685" y="656" />
+              <mxPoint x="686" y="656" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T3G7Gpj-b3C-Uhta2bSN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=default;endArrow=none;startFill=1;startArrow=classic;" edge="1" parent="1" source="T3G7Gpj-b3C-Uhta2bSN-22" target="T3G7Gpj-b3C-Uhta2bSN-15">
@@ -76,11 +80,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-22" value="HabilitacionPan" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-22" value="HabilitacionPan" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="600" y="532.5" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-24" value="VISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-24" value="VISA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="627" y="698" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="T3G7Gpj-b3C-Uhta2bSN-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T3G7Gpj-b3C-Uhta2bSN-15" target="T3G7Gpj-b3C-Uhta2bSN-33">
           <mxGeometry relative="1" as="geometry">
@@ -88,7 +92,7 @@
             <mxPoint x="300" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-33" value="Registro en&amp;nbsp;&lt;div&gt;Actividad&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T3G7Gpj-b3C-Uhta2bSN-33" value="Registro en&amp;nbsp;&lt;div&gt;Actividad&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
