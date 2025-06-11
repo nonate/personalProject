@@ -90,12 +90,6 @@
         <mxCell id="VhYDefbL7mIAKc7-yA0q-29" value="DataLake" style="shape=mxgraph.ibm.box;prType=region;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="220" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VhYDefbL7mIAKc7-yA0q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="VhYDefbL7mIAKc7-yA0q-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="435" as="sourcePoint" />
-            <mxPoint x="170" y="445" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VhYDefbL7mIAKc7-yA0q-46" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_lake_resource_icon;" vertex="1" parent="VhYDefbL7mIAKc7-yA0q-29">
           <mxGeometry x="60" y="34" width="78" height="78" as="geometry" />
         </mxCell>
