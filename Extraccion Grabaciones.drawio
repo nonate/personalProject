@@ -87,7 +87,7 @@
         <mxCell id="VhYDefbL7mIAKc7-yA0q-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VhYDefbL7mIAKc7-yA0q-24" target="VhYDefbL7mIAKc7-yA0q-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VhYDefbL7mIAKc7-yA0q-29" value="DataLake" style="shape=mxgraph.ibm.box;prType=region;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+        <mxCell id="VhYDefbL7mIAKc7-yA0q-29" value="DataLake" style="shape=mxgraph.ibm.box;prType=region;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="220" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VhYDefbL7mIAKc7-yA0q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="VhYDefbL7mIAKc7-yA0q-29">
