@@ -113,6 +113,12 @@
         <mxCell id="VhYDefbL7mIAKc7-yA0q-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VhYDefbL7mIAKc7-yA0q-24" target="VhYDefbL7mIAKc7-yA0q-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="77YS_Us8Xf6w0A-GX_fI-5" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;" vertex="1" parent="1">
+          <mxGeometry x="638" y="417" width="56.699999999999996" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="77YS_Us8Xf6w0A-GX_fI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="77YS_Us8Xf6w0A-GX_fI-3" target="77YS_Us8Xf6w0A-GX_fI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
