@@ -181,7 +181,7 @@
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-52" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="yQ1LGu9JGNTzou9qTPWQ-47" source="yQ1LGu9JGNTzou9qTPWQ-48" target="yQ1LGu9JGNTzou9qTPWQ-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-53" value="Flow Division QAGenesys Cloud" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-53" value="Flow Division QA Genesys Cloud" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="481" y="1420" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-54" value="Flow QA" style="whiteSpace=wrap;html=1;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-53">
@@ -202,7 +202,7 @@
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-62" value="Ajuste en Flujo QA para apuntar a DataActions QA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="83.5" y="1670" width="313" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-63" value="Flow Division QAGenesys Cloud" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-63" value="Flow Division QA Genesys Cloud" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="1730" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-64" value="Flow QA" style="whiteSpace=wrap;html=1;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-63">
@@ -225,6 +225,11 @@
             <mxPoint x="380" y="1821" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-73" value="Ajuste Manual&amp;nbsp;&lt;div&gt;&quot;Desarrollo&quot;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yQ1LGu9JGNTzou9qTPWQ-72">
+          <mxGeometry x="-0.0107" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-69" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="1746" width="210" height="150" as="geometry">
             <mxRectangle x="130" y="520" width="50" height="40" as="alternateBounds" />
@@ -235,6 +240,133 @@
         </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-71" value="Nuevo DataAction QA" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-69">
           <mxGeometry x="45" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-74" value="Paso 4: Paso de QA a Prod" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="1970" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yQ1LGu9JGNTzou9qTPWQ-77" target="yQ1LGu9JGNTzou9qTPWQ-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-76" value="PASO A PRODUCCIÖN&amp;nbsp;&lt;div&gt;MIDDLEWARE&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yQ1LGu9JGNTzou9qTPWQ-75">
+          <mxGeometry x="-0.16" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-77" value="CallCenter_test" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_account;strokeColor=#CD2264;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#CD2264;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2048" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-78" value="Nuevo Lambda QA" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-77">
+          <mxGeometry x="45.5" y="40" width="39" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-79" value="CallCenter_prod" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_account;strokeColor=#CD2264;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#CD2264;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="2048" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-80" value="Nuevo Lambda Prod" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-79">
+          <mxGeometry x="45.5" y="40" width="39" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yQ1LGu9JGNTzou9qTPWQ-83" target="yQ1LGu9JGNTzou9qTPWQ-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-82" value="EXPORTACION /&lt;br&gt;IMPORTACION" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yQ1LGu9JGNTzou9qTPWQ-81">
+          <mxGeometry x="0.1579" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-83" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2235" width="210" height="150" as="geometry">
+            <mxRectangle x="130" y="520" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-84" value="&lt;b&gt;Genesys Division QA&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-83">
+          <mxGeometry x="10" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-85" value="Nuevo DataAction QA" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-83">
+          <mxGeometry x="45" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-86" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2235" width="210" height="150" as="geometry">
+            <mxRectangle x="130" y="520" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-87" value="&lt;b&gt;Genesys Division Prod&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-86">
+          <mxGeometry x="10" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-88" value="Nuevo DataAction Prod" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-86">
+          <mxGeometry x="45" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-90" value="Paso a Producción Lambda vía Solicitud DevOps Middleware" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="83.5" y="2010" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-91" value="Paso a Producción DataAction vía Solicitud DevOps Intel.&amp;nbsp; Se entrega la exportación y documento de&amp;nbsp;&lt;div&gt;configuración para que apunte a Producción.&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="83.5" y="2185" width="570" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-92" value="El equipo de desarrollo prepara el exportable del Flow en QA para que apunte a Producción." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="83.5" y="2425" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-93" value="Flow Division QA Temporal Genesys Cloud" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2500" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-94" value="Flow QA" style="whiteSpace=wrap;html=1;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-93">
+          <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-95" value="New DataAction Prod" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-93">
+          <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-96" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="yQ1LGu9JGNTzou9qTPWQ-93" source="yQ1LGu9JGNTzou9qTPWQ-94" target="yQ1LGu9JGNTzou9qTPWQ-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-97" value="Audio Transversal" style="whiteSpace=wrap;html=1;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-93">
+          <mxGeometry x="160" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-98" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="yQ1LGu9JGNTzou9qTPWQ-93" source="yQ1LGu9JGNTzou9qTPWQ-94" target="yQ1LGu9JGNTzou9qTPWQ-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yQ1LGu9JGNTzou9qTPWQ-99" target="yQ1LGu9JGNTzou9qTPWQ-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-99" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2520" width="210" height="150" as="geometry">
+            <mxRectangle x="130" y="520" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-100" value="&lt;b&gt;Genesys Division Prod&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-99">
+          <mxGeometry x="10" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-101" value="Nuevo DataAction Prod" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-99">
+          <mxGeometry x="45" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-103" value="exportable&lt;br&gt;.i3InboundFlow" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2740" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yQ1LGu9JGNTzou9qTPWQ-93" target="yQ1LGu9JGNTzou9qTPWQ-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-105" value="Se genera la solicitud Devops a Intel para la importación y despliegue en Producción del Flujo" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="83.5" y="2880" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-106" value="Flow Division Prod Genesys Cloud" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="414" y="2980" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-107" value="Flow Prod" style="whiteSpace=wrap;html=1;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-106">
+          <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-108" value="New DataAction Prod" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-106">
+          <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-109" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="yQ1LGu9JGNTzou9qTPWQ-106" source="yQ1LGu9JGNTzou9qTPWQ-107" target="yQ1LGu9JGNTzou9qTPWQ-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-110" value="Audio Transversal" style="whiteSpace=wrap;html=1;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-106">
+          <mxGeometry x="160" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-111" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="yQ1LGu9JGNTzou9qTPWQ-106" source="yQ1LGu9JGNTzou9qTPWQ-107" target="yQ1LGu9JGNTzou9qTPWQ-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yQ1LGu9JGNTzou9qTPWQ-112" target="yQ1LGu9JGNTzou9qTPWQ-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQ1LGu9JGNTzou9qTPWQ-112" value="exportable&lt;br&gt;.i3InboundFlow" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="230" y="3025" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
