@@ -273,7 +273,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-83" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="2235" width="210" height="150" as="geometry">
+          <mxGeometry x="90" y="2242" width="210" height="150" as="geometry">
             <mxRectangle x="130" y="520" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -284,7 +284,7 @@
           <mxGeometry x="45" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-86" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="2235" width="210" height="150" as="geometry">
+          <mxGeometry x="490" y="2242" width="210" height="150" as="geometry">
             <mxRectangle x="130" y="520" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -298,7 +298,7 @@
           <mxGeometry x="83.5" y="2010" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-91" value="Paso a Producción DataAction vía Solicitud DevOps Intel.&amp;nbsp; Se entrega la exportación y documento de&amp;nbsp;&lt;div&gt;configuración para que apunte a Producción.&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="83.5" y="2185" width="570" height="40" as="geometry" />
+          <mxGeometry x="83.5" y="2188" width="570" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-92" value="El equipo de desarrollo prepara el exportable del Flow en QA para que apunte a Producción." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="83.5" y="2425" width="520" height="30" as="geometry" />
@@ -345,13 +345,13 @@
           <mxGeometry x="83.5" y="2880" width="520" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-106" value="Flow Division Prod Genesys Cloud" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="414" y="2980" width="280" height="190" as="geometry" />
+          <mxGeometry x="414" y="2972" width="280" height="193" as="geometry" />
         </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-107" value="Flow Prod" style="whiteSpace=wrap;html=1;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-106">
           <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-108" value="New DataAction Prod" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yQ1LGu9JGNTzou9qTPWQ-106">
-          <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
+          <mxGeometry x="20" y="132.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-109" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="yQ1LGu9JGNTzou9qTPWQ-106" source="yQ1LGu9JGNTzou9qTPWQ-107" target="yQ1LGu9JGNTzou9qTPWQ-108">
           <mxGeometry relative="1" as="geometry" />
@@ -366,7 +366,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yQ1LGu9JGNTzou9qTPWQ-112" value="exportable&lt;br&gt;.i3InboundFlow" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="230" y="3025" width="100" height="100" as="geometry" />
+          <mxGeometry x="230" y="3017" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
